@@ -12,3 +12,4 @@ game_make/
 # ───── 系统 / 工具 ─────
 .DS_Store
 .claude/
+.serena/
